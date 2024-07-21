@@ -16,12 +16,13 @@ body {
 
 
 .navbar {
-    height: 45px;
-    background-color: #3c2a21;
+    height: 34px;
+    /* background-color: #3c2a21; */
     
 }
 
 h1 {
+    background-color: rgb(3, 55, 59);
     color: #fff;
     text-align: center;
     justify-content:center;
