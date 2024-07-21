@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+@font-face {
+    font-family: sajjadraza;
+    src: url(Jameel\ Noori\ Nastaleeq.ttf);
+}
+
+.banner {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(104, 77, 20);
+    /* background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.9)),url(books.jpg); */
+    background-size: cover;
+    background-position: center;
+}
+
+.book-img {
+    width: 330px;
+    height: 500px;
+    /* margin-bottom: 200px; */
+    align-items: center;
+
+}
+
+.Button {
+    background-color:rgb(255, 255, 255);
+    color: brown;
+    border: none;
+    font-size: 24px;
+}
+
+h2 {
+    text-align: Center;
+    background-color: rgb(17, 102, 133);
+    color: #fff;
+    font-family: sajjadraza;
+        src: url(Jameel\ Noori\ Nastaleeq.ttf);
+}
+
+
+
+.my-books {
+    justify-content: center;
+    align-items: center;
+
+}
+
+#kanz {
+    margin-right: 3px;
+}
+
+#d {
+   margin-top: 100px;
+}
+

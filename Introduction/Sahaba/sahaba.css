@@ -1,0 +1,56 @@
+* {
+    text-align: center;
+}
+
+body{
+    background-color: #e4d7b2;
+}
+@font-face {
+    font-family: sajjadraza;
+    src: url(../../Jameel\ Noori\ Nastaleeq.ttf);
+}
+
+
+.sahaba {
+    color: rgb(0, 0, 0);
+    background-color: #f6ff00;
+    font-family: sajjadraza;
+    text-align: center;
+    margin: 10px;
+    font-size: 34px;
+    border: none;
+    
+}
+
+
+
+h1{
+    color: brown;
+    background-color: rgb(255, 255, 255);
+}
+
+#back {
+    background-color:brown;
+    color: rgb(255, 255, 255);
+    border: none;
+    font-size: 32px;
+}
+
+.khulafa {
+    justify-content: center;
+    align-items: center;
+
+}
+
+.name {
+    justify-content: center;
+    align-items: center;
+}
+
+.Fatima2 {
+    border-radius: 50%;
+    width: 1200px;
+    height: 1200px;
+    margin-left: 0px;
+
+}
